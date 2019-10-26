@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">loginApp</string>
+    <string name="placeholder_user">Usuario</string>
+    <string name="placeholder_password">Contraseaña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="btn_logup">Registrarse</string>
+    <string name="MESSAGE_WELCOME">Bienvenido!</string>
+</resources>
